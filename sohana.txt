@@ -1,0 +1,6 @@
+W3C invites public feedback on a beta release of the W3C website redesign. The new site features a cleaner and more modern look, a simplified information architecture, improved accessibility, and more integration throughout the site. Once the beta of the English site has concluded, we will offer sites in Japanese and Chinese.
+
+The scope of the redesign is limited to most of our public pages, but we will gradually work to include the rest of the site.
+
+You can read a bit more on the beta and its context in the W3C blog post, and about the redesign work and process in Studio 24’s blog post. We look forward to your feedback.
+
